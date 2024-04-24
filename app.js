@@ -98,3 +98,41 @@
 //   jami = (i * narx) / 10;
 //   console.log(`${i / 10}kg = ${jami}som`);
 // }
+
+//for6
+// let narx = prompt(" narxni kiriting");
+// let jami = 0;
+// for (let i = 1.2; i <= 2; i += 0.2) {
+//   jami = (i * narx) / 10;
+//   console.log(`${i / 10}kg = ${jami}som`);
+// }
+
+// for7
+// let a = prompt("son kirgizing");
+// let b = prompt("son kiriting");
+
+// let son = 0;
+// for (let i = a; i <= b; i++) {
+//   son += i;
+//   console.log(i);
+// }
+
+// for8
+// let a = prompt("son kirgizing");
+// let b = prompt("son kiriting");
+
+// let son = 0;
+// for (let i = a; i <= b; i++) {
+//   son *= i;
+//   console.log(i);
+// }
+
+// for9
+// let a = prompt("son kirgizing");
+// let b = prompt("son kiriting");
+
+// let son = 0;
+// for (let i = a; i <= b; i++) {
+//   son += (i)^2;
+//   console.log(i);
+// }
