@@ -136,3 +136,13 @@
 //   son += (i)^2;
 //   console.log(i);
 // }
+
+// for10
+
+// let b = prompt("son kiriting");
+
+// let son = 0;
+// for (let i = 1; i <= b; i++) {
+//   son += (1/n);
+//   console.log(i);
+// }
